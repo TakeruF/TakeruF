@@ -17,11 +17,11 @@
 
 ## Hi, I’m Takeru 👋
 
-**Tokyo / Waseda University · Creator of [Hanlu](https://example.com/hanlu)** <!-- EDIT: Hanlu URL -->
+**Tokyo / Waseda University · Creator of [Hanlu](https://hanlu.app/about)** <!-- EDIT: Hanlu URL -->
 
 I’m a product-building student developer focused on shipping real things — building products that make **learning** and **AI workflows** more useful. I work across web, mobile, and AI.
 
-🌐 Website — *under development* → [takeru.dev](https://example.com) <!-- EDIT: Website URL -->
+🌐 Website — *under development* → [takeru.dev](https://me-teal-alpha.vercel.app) <!-- EDIT: Website URL -->
 
 <br/>
 
