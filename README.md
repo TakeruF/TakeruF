@@ -11,6 +11,10 @@
 
 <img src="./assets/banner.svg" alt="Takeru Universe" width="100%" />
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=620&lines=Building+the+Takeru+Universe+%F0%9F%8C%8C;Making+learning+%2B+AI+workflows+actually+useful;Web+%C2%B7+Mobile+%C2%B7+AI+%E2%80%94+shipped" alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -57,23 +61,18 @@ I’m a product-building student developer focused on shipping real things — b
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TakeruF&show_icons=true&hide_border=true&theme=tokyonight&icon_color=818cf8&title_color=7dd3fc&count_private=true" alt="Takeru's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakeruF&layout=compact&hide_border=true&theme=tokyonight&title_color=7dd3fc&langs_count=8" alt="Most used languages" />
+<!--
+  Stats + languages are rendered from a self-hosted SVG generated in-repo by
+  .github/workflows/metrics.yml (lowlighter/metrics). This avoids the flaky
+  public github-readme-stats.vercel.app instance, which frequently 503s.
+-->
+<img width="92%" src="./assets/metrics.svg" alt="Takeru's GitHub stats & most used languages" />
 
 <br/>
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=TakeruF&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7dd3fc&line=818cf8&point=c084fc&area=true" alt="Contribution activity graph" />
 
 </div>
-
-<!--
-  Optional: after .github/workflows/metrics.yml runs once, it creates
-  assets/metrics.svg. Uncomment the block below to display it.
-
-  <div align="center">
-    <img width="92%" src="./assets/metrics.svg" alt="GitHub metrics" />
-  </div>
--->
 
 <br/>
 
@@ -94,16 +93,6 @@ I’m a product-building student developer focused on shipping real things — b
   and pushed to the `output` branch. They will 404 until that workflow has run once.
   Run it manually from the Actions tab the first time (Run workflow).
 -->
-
-<br/>
-
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=TakeruF&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
-  </div>
-</details>
 
 <br/>
 
