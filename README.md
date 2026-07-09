@@ -66,7 +66,7 @@ I’m a product-building student developer focused on shipping real things — b
   .github/workflows/metrics.yml (lowlighter/metrics). This avoids the flaky
   public github-readme-stats.vercel.app instance, which frequently 503s.
 -->
-<img width="92%" src="./assets/metrics.svg" alt="Takeru's GitHub stats & most used languages" />
+<img width="480" src="./assets/metrics.svg" alt="Takeru's GitHub stats & most used languages" />
 
 <br/>
 
