@@ -50,6 +50,7 @@ I’m a product-building student developer focused on shipping real things — b
 
 | Project | What it is |
 | :-- | :-- |
+| **📊 [TOKEN METER](https://takeruf.github.io/token_meter/)** | A native macOS app for monitoring Claude Code and Codex usage from the menu bar and desktop widgets. |
 | **🀄 Hanlu** | A Chinese learning app — focused, modern, and built to make language practice actually stick. |
 | **🧠 AI Studio** | A human-in-the-loop AI workflow & review board for steering and approving AI output with confidence. |
 | **📇 Client Info Management** | A CRM-style system for organizing client information and relationships. |
