@@ -1,0 +1,45 @@
+<svg width="410" height="197" viewBox="0 0 574 276" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Client Info — focused relationship management">
+  <defs>
+    <linearGradient id="ci-bg" x1="18" y1="13" x2="553" y2="268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121A27"/>
+      <stop offset="0.58" stop-color="#090E16"/>
+      <stop offset="1" stop-color="#0E1520"/>
+    </linearGradient>
+    <linearGradient id="ci-accent" x1="384" y1="36" x2="523" y2="229" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.58" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="ci-glow" cx="0" cy="0" r="1" gradientTransform="translate(498 41) rotate(137) scale(236 193)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="572" height="274" rx="25" fill="url(#ci-bg)"/>
+  <rect x="1" y="1" width="572" height="274" rx="25" fill="url(#ci-glow)"/>
+  <rect x="1" y="1" width="572" height="274" rx="25" stroke="#293548" stroke-width="2"/>
+  <path d="M28 29H116" stroke="url(#ci-accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="30" y="62" fill="#8B98AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1.8">04 / OPERATIONS</text>
+  <rect x="444" y="29" width="95" height="27" rx="13.5" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <circle cx="461" cy="42.5" r="3.5" fill="#64748B"/>
+  <text x="472" y="47" fill="#DCE4EE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">PRIVATE</text>
+
+  <text x="30" y="123" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="34" font-weight="750" letter-spacing="-1.2">Client Info</text>
+  <text x="30" y="158" fill="#D4DBE5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="570">Relationships, clearly organized.</text>
+  <text x="30" y="185" fill="#8793A4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">A focused system for client context and follow-through.</text>
+
+  <g transform="translate(409 87)">
+    <rect x="0" y="0" width="111" height="119" rx="18" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <circle cx="31" cy="31" r="12" fill="url(#ci-accent)" fill-opacity="0.75"/>
+    <path d="M53 25H88M53 37H78" stroke="#A7C2D3" stroke-opacity="0.6" stroke-width="4" stroke-linecap="round"/>
+    <path d="M22 70H90M22 87H74" stroke="#A7C2D3" stroke-opacity="0.32" stroke-width="4" stroke-linecap="round"/>
+    <rect x="72" y="99" width="20" height="8" rx="4" fill="#2DD4BF" fill-opacity="0.75"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="650">
+    <rect x="30" y="224" width="72" height="25" rx="12.5" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="48" y="240.5" fill="#BCC6D3">CRM UX</text>
+    <rect x="110" y="224" width="78" height="25" rx="12.5" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="128" y="240.5" fill="#BCC6D3">Systems</text>
+  </g>
+</svg>

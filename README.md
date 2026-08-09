@@ -21,7 +21,7 @@
 
 ## Hi, I’m Takeru 👋
 
-**Tokyo / Waseda University · Creator of [Hanlu](https://hanlu.app/about)** <!-- EDIT: Hanlu URL -->
+**🗼Tokyo** <!-- EDIT: Hanlu URL -->
 
 I’m a product-building student developer focused on shipping real things — building products that make **learning** and **AI workflows** more useful. I work across web, mobile, and AI.
 
@@ -48,13 +48,11 @@ I’m a product-building student developer focused on shipping real things — b
 
 ## 🚀 Featured Projects
 
-| Project | What it is |
-| :-- | :-- |
-| **📊 [TOKEN METER](https://takeruf.github.io/token_meter/)** | A native macOS app for monitoring Claude Code and Codex usage from the menu bar and desktop widgets. |
-| **🀄 [Hanlu](https://hanlu.app/about)** | A Chinese learning app — focused, modern, and built to make language practice actually stick. |
-| **🧠 AI Studio** | A human-in-the-loop AI workflow & review board for steering and approving AI output with confidence. |
-| **📇 Client Info Management** | A CRM-style system for organizing client information and relationships. |
-| **🌌 Portfolio / Me** | An interactive, universe-themed personal site. *(under development)* |
+<p>
+  <a href="https://takeruf.github.io/token_meter/"><img src="./assets/cards/token-meter.svg" alt="Token Meter — native AI usage monitoring for macOS" /></a> <a href="https://hanlu.app/about"><img src="./assets/cards/hanlu.svg" alt="Hanlu — Chinese learning made memorable" /></a><br/>
+  <img src="./assets/cards/ai-studio.svg" alt="AI Studio — human approval for AI workflows" /> <img src="./assets/cards/client-info.svg" alt="Client Info — focused relationship management" /><br/>
+  <a href="https://me-teal-alpha.vercel.app"><img src="./assets/cards/portfolio.svg" alt="Takeru Universe — an interactive personal portfolio" /></a>
+</p>
 
 <br/>
 
@@ -94,9 +92,3 @@ I’m a product-building student developer focused on shipping real things — b
   and pushed to the `output` branch. They will 404 until that workflow has run once.
   Run it manually from the Actions tab the first time (Run workflow).
 -->
-
-<br/>
-
-<div align="center">
-  <sub>✨ Building the Takeru Universe, one product at a time.</sub>
-</div>
