@@ -1,94 +1,99 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │  EDIT ME — quick links you may want to update over time      │
-  │  • Website (under development): https://example.com          │
-  │  • Hanlu app URL:               https://example.com/hanlu    │
-  └─────────────────────────────────────────────────────────────┘
-  Replace the placeholder URLs above and the matching links below.
--->
-
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Takeru Universe" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=620&lines=Building+the+Takeru+Universe+%F0%9F%8C%8C;Making+learning+%2B+AI+workflows+actually+useful;Web+%C2%B7+Mobile+%C2%B7+AI+%E2%80%94+shipped" alt="Typing SVG" />
+<img src="./assets/banner.svg" alt="Takeru F. — product builder in Tokyo, creating useful learning products and AI workflows" width="100%" />
 
 </div>
 
-<br/>
+## Hi, I'm Takeru
 
-## Hi, I’m Takeru 👋
+I'm a student developer and product builder based in Tokyo. I build web, mobile, and AI products—especially learning tools, developer utilities, and practical AI workflows.
 
-**🗼Tokyo** <!-- EDIT: Hanlu URL -->
+## Featured Products & Apps
 
-I’m a product-building student developer focused on shipping real things — building products that make **learning** and **AI workflows** more useful. I work across web, mobile, and AI.
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://hanlu.app/about">
+        <img src="https://hanlu.app/about/sync.png" alt="Hanlu running across desktop, tablet, and mobile" width="100%" />
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Hanlu</h3>
+      <p>A Chinese learning app for building vocabulary through HSK word lists, quizzes, audio, and progress tracking—with learning data synced across devices.</p>
+      <p><strong>Platforms:</strong> Web · iOS · Android</p>
+      <p>
+        <a href="https://hanlu.app/about">Product</a> ·
+        <a href="https://hanlu.app/learn">Web app</a> ·
+        <a href="https://apps.apple.com/jp/app/hanlu/id6760371605">App Store</a> ·
+        <a href="https://play.google.com/store/apps/details?id=com.hanlu.app">Google Play</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://takeruf.github.io/token_meter/">
+        <img src="https://raw.githubusercontent.com/TakeruF/token_meter/main/docs/screenshots/widget-large.png" alt="Token Meter usage dashboard for Claude Code and Codex" width="270" />
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Token Meter</h3>
+      <p>A native usage monitor for Claude Code, Codex, and Copilot CLI that turns local session data into clear daily, weekly, and rate-limit views.</p>
+      <p><strong>Platforms:</strong> macOS · Windows</p>
+      <p>
+        <a href="https://takeruf.github.io/token_meter/">Product &amp; download</a> ·
+        <a href="https://github.com/TakeruF/token_meter/releases/latest">Releases</a> ·
+        <a href="https://github.com/TakeruF/token_meter">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/TakeruF/furigana_keyboard">
+        <img src="https://raw.githubusercontent.com/TakeruF/furigana_keyboard/main/about/public/keyboard-preview.jpg" alt="Furigana Keyboard recognizing handwritten Japanese and showing readings" height="330" />
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Furigana Keyboard</h3>
+      <p>An offline-first Japanese handwriting keyboard with furigana, dictionary-backed candidates, and kana-kanji conversion for both handwritten and romaji input.</p>
+      <p><strong>Platforms:</strong> Android · iOS</p>
+      <p>
+        <a href="https://keyboard.hanlu.app/en">Product</a> ·
+        <a href="https://keyboard.hanlu.app/en#download">Android download</a> ·
+        <a href="https://github.com/TakeruF/furigana_keyboard">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/TakeruF/android-perapp-language-selector">
+        <img src="https://raw.githubusercontent.com/TakeruF/android-perapp-language-selector/main/docs/screenshots/list.png" alt="Per-App Language app list showing locale overrides" height="330" />
+        <img src="https://raw.githubusercontent.com/TakeruF/android-perapp-language-selector/main/docs/screenshots/picker.png" alt="Per-App Language locale picker" height="330" />
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Per-App Language</h3>
+      <p>An Android utility for assigning a locale to any installed app—including apps missing from the system's standard “App languages” screen.</p>
+      <p><strong>Platform:</strong> Android 13+ · Shizuku</p>
+      <p>
+        <a href="https://github.com/TakeruF/android-perapp-language-selector/releases/latest">Download</a> ·
+        <a href="https://github.com/TakeruF/android-perapp-language-selector">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-🌐 Website — *under development* → [takeru.dev](https://me-teal-alpha.vercel.app) <!-- EDIT: Website URL -->
+## Open Source / MCP
 
-<br/>
+- **[China Rail MCP](https://github.com/TakeruF/china-rail-mcp)** — A read-only MCP server for official 12306 station search, timetables, fares, seat availability, train numbers, and stop sequences—without booking or account automation.
+- **[Japan Rail MCP](https://github.com/TakeruF/japan-rail-mcp)** — A Shinkansen-first, read-only MCP server with a credential-free station catalog and live timetables, fares, seat classes, and stops when an Ekispert API key is configured.
+- **[MCP Mail Core](https://github.com/TakeruF/mcp-mail-core)** — A safety-first, multi-account mail MCP core and provider contract for Gmail, QQ Mail, and iCloud Mail integrations.
+- **[Silkroad MCP](https://github.com/TakeruF/silkroad-mcp)** — A catalog of MCP servers, reusable components, blueprints, and templates for Asian services, devices, and standard protocols.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="EdgeOne" src="https://img.shields.io/badge/EdgeOne-0052D9?style=flat-square&logo=tencentqq&logoColor=white" />
-</p>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<p>
-  <a href="https://takeruf.github.io/token_meter/"><img src="./assets/cards/token-meter.svg" alt="Token Meter — native AI usage monitoring for macOS" /></a> <a href="https://hanlu.app/about"><img src="./assets/cards/hanlu.svg" alt="Hanlu — Chinese learning made memorable" /></a><br/>
-  <img src="./assets/cards/ai-studio.svg" alt="AI Studio — human approval for AI workflows" /> <img src="./assets/cards/client-info.svg" alt="Client Info — focused relationship management" /><br/>
-  <a href="https://me-teal-alpha.vercel.app"><img src="./assets/cards/portfolio.svg" alt="Takeru Universe — an interactive personal portfolio" /></a>
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!--
-  Stats + languages are rendered from a self-hosted SVG generated in-repo by
-  .github/workflows/metrics.yml (lowlighter/metrics). This avoids the flaky
-  public github-readme-stats.vercel.app instance, which frequently 503s.
--->
-<img width="480" src="./assets/metrics.svg" alt="Takeru's GitHub stats & most used languages" />
-
-<br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=TakeruF&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7dd3fc&line=818cf8&point=c084fc&area=true" alt="Contribution activity graph" />
-
-</div>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakeruF/TakeruF/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakeruF/TakeruF/output/snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/TakeruF/TakeruF/output/snake.svg" />
-</picture>
-
-</div>
-
-<!--
-  The snake images above are generated automatically by .github/workflows/snake.yml
-  and pushed to the `output` branch. They will 404 until that workflow has run once.
-  Run it manually from the Actions tab the first time (Run workflow).
--->
+| Area | Tools |
+| --- | --- |
+| **Mobile** | Swift, SwiftUI, Kotlin, Android, Jetpack Compose |
+| **Web** | TypeScript, React, Next.js |
+| **AI & Backend** | Python, MCP, Supabase |
+| **Infra** | Vercel, EdgeOne |
