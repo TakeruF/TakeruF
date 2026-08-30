@@ -32,7 +32,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://takeruf.github.io/token_meter/">
-        <img src="https://raw.githubusercontent.com/TakeruF/token_meter/main/docs/screenshots/widget-large.png" alt="Token Meter usage dashboard for Claude Code and Codex" width="270" />
+        <img src="https://raw.githubusercontent.com/TakeruF/TakeruF/main/tokenmeter-1.jpg" alt="Token Meter usage dashboard for Claude Code and Codex" width="270" />
       </a>
     </td>
     <td width="60%" valign="top">
