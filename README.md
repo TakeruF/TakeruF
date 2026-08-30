@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Takeru F. — product builder in Tokyo, creating useful learning products and AI workflows" width="100%" />
+<a href="https://github.com/TakeruF/cn">简体中文主页 →</a>
 
 </div>
 
