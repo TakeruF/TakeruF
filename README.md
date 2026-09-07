@@ -15,7 +15,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <a href="https://takeruf.com/projects/hanlu">
+      <a href="https://hanlu.app/about">
         <img src="https://hanlu.app/about/sync.png" alt="Hanlu running across desktop, tablet, and mobile" width="100%" />
       </a>
     </td>
@@ -24,7 +24,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
       <p>A Chinese learning app for building vocabulary through HSK word lists, quizzes, audio, and progress tracking—with learning data synced across devices.</p>
       <p><strong>Platforms:</strong> Web · iOS · Android</p>
       <p>
-        <a href="https://takeruf.com/projects/hanlu">Product</a> ·
+        <a href="https://hanlu.app/about">Product</a> ·
         <a href="https://hanlu.app/learn">Web app</a> ·
         <a href="https://apps.apple.com/jp/app/hanlu/id6760371605">App Store</a> ·
         <a href="https://play.google.com/store/apps/details?id=com.hanlu.app">Google Play</a>
