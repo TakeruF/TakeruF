@@ -1,3 +1,5 @@
+[Portfolio · All products](https://takeruf.com/work)
+
 <div align="center">
 
 <a href="https://github.com/TakeruF/cn">简体中文主页 →</a>
@@ -13,7 +15,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <a href="https://hanlu.app/about">
+      <a href="https://takeruf.com/projects/hanlu">
         <img src="https://hanlu.app/about/sync.png" alt="Hanlu running across desktop, tablet, and mobile" width="100%" />
       </a>
     </td>
@@ -22,7 +24,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
       <p>A Chinese learning app for building vocabulary through HSK word lists, quizzes, audio, and progress tracking—with learning data synced across devices.</p>
       <p><strong>Platforms:</strong> Web · iOS · Android</p>
       <p>
-        <a href="https://hanlu.app/about">Product</a> ·
+        <a href="https://takeruf.com/projects/hanlu">Product</a> ·
         <a href="https://hanlu.app/learn">Web app</a> ·
         <a href="https://apps.apple.com/jp/app/hanlu/id6760371605">App Store</a> ·
         <a href="https://play.google.com/store/apps/details?id=com.hanlu.app">Google Play</a>
@@ -31,16 +33,16 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
   </tr>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <a href="https://takeruf.github.io/token_meter/">
+      <a href="https://takeruf.com/projects/token-meter">
         <img src="https://raw.githubusercontent.com/TakeruF/TakeruF/main/tokenmeter-1.jpg" alt="Token Meter usage dashboard for Claude Code and Codex" width="270" />
       </a>
     </td>
     <td width="60%" valign="top">
       <h3>Token Meter</h3>
       <p>A native usage monitor for Claude Code, Codex, and Copilot CLI that turns local session data into clear daily, weekly, and rate-limit views.</p>
-      <p><strong>Platforms:</strong> macOS · Windows</p>
+      <p><strong>Platforms:</strong> macOS</p>
       <p>
-        <a href="https://takeruf.github.io/token_meter/">Product &amp; download</a> ·
+        <a href="https://takeruf.com/projects/token-meter">Product &amp; download</a> ·
         <a href="https://github.com/TakeruF/token_meter/releases/latest">Releases</a> ·
         <a href="https://github.com/TakeruF/token_meter">Repository</a>
       </p>
@@ -57,7 +59,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
       <p>An offline-first Japanese handwriting keyboard with furigana, dictionary-backed candidates, and kana-kanji conversion for both handwritten and romaji input.</p>
       <p><strong>Platforms:</strong> Android · iOS</p>
       <p>
-        <a href="https://keyboard.hanlu.app/en">Product</a> ·
+        <a href="https://takeruf.com/projects/furigana-keyboard">Product</a> ·
         <a href="https://keyboard.hanlu.app/en#download">Android download</a> ·
         <a href="https://github.com/TakeruF/furigana_keyboard">Repository</a>
       </p>
