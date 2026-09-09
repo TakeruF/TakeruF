@@ -16,7 +16,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://hanlu.app/about">
-        <img src="https://hanlu.app/about/sync.png" alt="Hanlu running across desktop, tablet, and mobile" width="100%" />
+        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/hanlu.webp" alt="Hanlu running across desktop, tablet, and mobile" width="100%" />
       </a>
     </td>
     <td width="60%" valign="top">
@@ -28,6 +28,23 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
         <a href="https://hanlu.app/learn">Web app</a> ·
         <a href="https://apps.apple.com/jp/app/hanlu/id6760371605">App Store</a> ·
         <a href="https://play.google.com/store/apps/details?id=com.hanlu.app">Google Play</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://dict.hanlu.app/about">
+        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/hanlu-dict.webp" alt="Hanlu Dict running across desktop, tablet, and mobile" width="100%" />
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Hanlu Dict</h3>
+      <p>A Chinese dictionary for Japanese, Simplified Chinese, and pinyin lookup. Check definitions, pronunciation, examples, and HSK levels, then review saved words in Hanlu.</p>
+      <p><strong>Platforms:</strong> Web · iOS</p>
+      <p>
+        <a href="https://dict.hanlu.app/about">Product</a> ·
+        <a href="https://dict.hanlu.app">Web dictionary</a> ·
+        <a href="https://apps.apple.com/jp/app/hanlu-dict/id6776096856">App Store</a>
       </p>
     </td>
   </tr>
@@ -51,7 +68,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/TakeruF/furigana_keyboard">
-        <img src="https://raw.githubusercontent.com/TakeruF/furigana_keyboard/main/about/public/keyboard-preview.jpg" alt="Furigana Keyboard recognizing handwritten Japanese and showing readings" height="330" />
+        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/furigana-pixel-10-pro-input.png" alt="Furigana Keyboard recognizing handwritten Japanese and showing readings" height="330" />
       </a>
     </td>
     <td width="60%" valign="top">
