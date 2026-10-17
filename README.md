@@ -67,18 +67,18 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
   </tr>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <a href="https://github.com/TakeruF/furigana_keyboard">
-        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/furigana-pixel-10-pro-input.png" alt="Furigana Keyboard recognizing handwritten Japanese and showing readings" height="330" />
+      <a href="https://takeruf.com/projects/androp">
+        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/androp-recipients.webp" alt="anDrop recipient chooser showing nearby phones and tablets" width="100%" />
       </a>
     </td>
     <td width="60%" valign="top">
-      <h3>Furigana Keyboard</h3>
-      <p>An offline-first Japanese handwriting keyboard with furigana, dictionary-backed candidates, and kana-kanji conversion for both handwritten and romaji input.</p>
-      <p><strong>Platforms:</strong> Android · iOS</p>
+      <h3>anDrop</h3>
+      <p>A macOS menu bar app for sharing files with compatible Android phones and tablets through their built-in Mutual Transfer Alliance sharing feature—no extra phone app or account needed.</p>
+      <p><strong>Platform:</strong> macOS 14+ · Apple Silicon</p>
       <p>
-        <a href="https://takeruf.com/projects/furigana-keyboard">Product</a> ·
-        <a href="https://keyboard.hanlu.app/en#download">Android download</a> ·
-        <a href="https://github.com/TakeruF/furigana_keyboard">Repository</a>
+        <a href="https://takeruf.com/projects/androp">Product</a> ·
+        <a href="https://github.com/TakeruF/cn-android-share/releases/latest">Download</a> ·
+        <a href="https://github.com/TakeruF/cn-android-share">Repository</a>
       </p>
     </td>
   </tr>
@@ -96,6 +96,23 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
       <p>
         <a href="https://github.com/TakeruF/android-perapp-language-selector/releases/latest">Download</a> ·
         <a href="https://github.com/TakeruF/android-perapp-language-selector">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://takeruf.com/projects/nagi">
+        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/nagi-home.webp" alt="Nagi Browser organizing tabs and Spaces in its sidebar" width="100%" />
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>Nagi Browser</h3>
+      <p>A workspace browser for Android tablets and phones, with Spaces for organizing tabs, split-screen browsing, a command bar, and reader mode.</p>
+      <p><strong>Platform:</strong> Android 8.0+</p>
+      <p>
+        <a href="https://takeruf.com/projects/nagi">Product &amp; download</a> ·
+        <a href="https://github.com/TakeruF/android-tab-browser/releases/latest">Releases</a> ·
+        <a href="https://github.com/TakeruF/android-tab-browser">Repository</a>
       </p>
     </td>
   </tr>
