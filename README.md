@@ -111,6 +111,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
       <p><strong>Platform:</strong> Android 8.0+</p>
       <p>
         <a href="https://takeruf.com/projects/nagi">Product &amp; download</a> ·
+        <a href="https://play.google.com/store/apps/details?id=com.takeruf.nagi">Google Play</a> ·
         <a href="https://github.com/TakeruF/android-tab-browser/releases/latest">Releases</a> ·
         <a href="https://github.com/TakeruF/android-tab-browser">Repository</a>
       </p>
