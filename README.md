@@ -102,7 +102,7 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://takeruf.com/projects/nagi">
-        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/nagi-home.webp" alt="Nagi Browser organizing tabs and Spaces in its sidebar" width="100%" />
+        <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/nagi-tablet.webp" alt="Nagi Browser showing two web pages side by side on a tablet" width="100%" />
       </a>
     </td>
     <td width="60%" valign="top">
