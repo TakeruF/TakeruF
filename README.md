@@ -94,7 +94,8 @@ I'm a student developer and product builder based in Tokyo. I build web, mobile,
       <p>An Android utility for assigning a locale to any installed app—including apps missing from the system's standard “App languages” screen.</p>
       <p><strong>Platform:</strong> Android 13+ · Shizuku</p>
       <p>
-        <a href="https://github.com/TakeruF/android-perapp-language-selector/releases/latest">Download</a> ·
+        <a href="https://play.google.com/store/apps/details?id=com.takeruf.perapplocale">Google Play</a> ·
+        <a href="https://github.com/TakeruF/android-perapp-language-selector/releases/latest">Releases</a> ·
         <a href="https://github.com/TakeruF/android-perapp-language-selector">Repository</a>
       </p>
     </td>
